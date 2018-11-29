@@ -6,13 +6,13 @@ Python script to automatically install Wordpress in Debian 9
 To use this script you need to install Python3 and pip3.
 On debian : `apt-get install python3 pip3`
 
-After install Python3 and pip3, please install theses librairies : `MySQLdb` and `requests`.(`pip3 install requests` and `apt install python3-mysqldb -y` on your command line)
+After install Python3 and pip3, please install theses librairies : `MySQLdb` and `requests`. (`pip3 install requests` and `apt install python3-mysqldb -y` on your command line)
 
 ## Run the script
 
 When that was done, you have to edit the script `program.py` with your own informations.
 
-Finally you can run the script by using : `python3 program.py`.
+Finally you can run the script by using : `python3 program.py`. Run the script in **root** user !
 
 ## Informations
 
